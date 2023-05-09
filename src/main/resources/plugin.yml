@@ -2,4 +2,4 @@ name: PowerupDemo
 main: gargant.powerup.Main
 version: '1.0'
 author: Gargant
-depend: [Strafes]
+depend: [GStrafes]

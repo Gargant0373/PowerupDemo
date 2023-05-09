@@ -26,5 +26,6 @@ public class Main extends JavaPlugin {
         this.api.getPowerupService().registerPowerup(new DirtInventoryPowerup("dirt"));
 
         System.out.println("Loaded powerups!");
+
     }
 }

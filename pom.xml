@@ -58,8 +58,8 @@
 		</dependency>
 		<dependency>
 	    	<groupId>com.github.Gargant0373</groupId>
-	    	<artifactId>REStrafes</artifactId>
-	    	<version>master-SNAPSHOT</version>
+	    	<artifactId>GStrafes</artifactId>
+	    	<version>latest</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
